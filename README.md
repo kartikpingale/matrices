@@ -1,2 +1,2 @@
 # matrices
-A calculator for several matrix operations including determinant and rank
+A calculator for several matrix operations including solving for determinant and rank
