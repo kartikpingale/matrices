@@ -17,6 +17,35 @@ int main()
   switch(choice)
   {
     case 1:
+      //addition
+      break;
+    case 2:
+      //subtraction
+      break;
+    case 3:
+      //multiplication
+      break;
+    case 4:
+      //transpose
+      break;
+    case 5:
+      //determinant
+      break;
+    case 6:
+      //cofactor
+      break;
+    case 7:
+      //identity check
+      break;
+    case 8:
+      //inverse
+      break;
+    case 9:
+      //rank
+      break;
+    default:
+      printf("Invalid Input! Enter a number between 1 to 9!\n");
+      break;
   }
   return 0;
 }
