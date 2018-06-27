@@ -66,3 +66,28 @@ void matrixInput(int x[][])
     printf("\n");
   }
 }
+
+void matrixOutput()
+{
+  
+}
+
+void matrixAdd()
+{
+  
+}
+
+void matrixSubtract()
+{
+  
+}
+
+void matrixMultiply()
+{
+  
+}
+
+void matrixTranspose()
+{
+  
+}
